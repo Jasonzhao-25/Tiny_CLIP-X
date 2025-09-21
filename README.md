@@ -41,7 +41,8 @@ We introduce a novel **Cognitive Distillation** strategy that enables training *
 
 ---
 
-## 📂 File Structure、
+## 📂 File Structure
+·
 ├── CLIP_teacher.py              # CLIP teacher model definition
 ├── README.md                    # This file
 ├── TinyCLIP_student.py          # TinyCLIP student model definition
