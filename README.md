@@ -42,7 +42,8 @@ We introduce a novel **Cognitive Distillation** strategy that enables training *
 ---
 
 ## 📂 File Structure
-·
+```bash
+.
 
 ├── CLIP_teacher.py              # CLIP teacher model definition
 ├── README.md                    # This file
