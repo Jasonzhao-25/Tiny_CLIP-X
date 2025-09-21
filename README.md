@@ -72,6 +72,9 @@ We introduce a novel **Cognitive Distillation** strategy that enables training *
   - Training parameters (e.g., learning rate, batch size, loss weights) are defined in YAML files within the `configs/` folder. Create these configuration files according to your experimental needs.
 - **Execute Training**:
   - Follow the phased approach described in the paper by running the training scripts sequentially. For example, to run Stage 2b:
+  ```bash
+  python train_stage2b.py
+  ```
 - The script will automatically load the checkpoint from the previous stage and begin the cognitive distillation training.
 
 ---
