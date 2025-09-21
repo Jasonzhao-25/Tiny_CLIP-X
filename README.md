@@ -55,6 +55,8 @@ We introduce a novel **Cognitive Distillation** strategy that enables training *
 ├── train_stage3.py              # Training script - Stage 3
 └── ...
 
+---
+
 ### 🛠️ How to Use
 
 #### 1. Environment Setup
